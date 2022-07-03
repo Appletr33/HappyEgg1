@@ -1,0 +1,173 @@
+{
+  "intents": [
+    {
+      "tag": "lady",
+      "patterns": [
+        "what happen to the lady",
+        "lady",
+        "what happened lady?",
+        "Was the lady murdered?"
+      ],
+      "responses": [
+        "The Lady Died!",
+        "The Lady died on July 27",
+        "The lady passed away"
+      ]
+    },
+    {
+      "tag": "lady_death",
+      "patterns": ["When did the Lady die?", "When lady pass away", "Who killed the lady", "who's the lady murder?,"],
+      "responses": [
+        "She was murdered by Marvelous Dream on July 27",
+        "Marvelous Dream Killed the lady on July 27"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "king",
+      "patterns": [
+        "Who became a king?"
+      ],
+      "responses": [
+        "Marvelous Dream"
+      ]
+    },
+    {
+      "tag": "queen",
+      "patterns": [
+        "Who became a queen?",
+        "who is the queen?",
+        "queen?",
+        "If the kid wears glasses, who became a queen?"
+      ],
+      "responses": [
+        "Anna Yvette",
+        "Anna Yvette is the queen."
+      ]
+    },
+    {
+      "tag": "Who_helped",
+      "patterns": [
+        "Who helped?"
+      ],
+      "responses": [
+        "Hypesquad Bravery",
+        "domastic",
+        "Hypesquad Balance"
+
+      ]
+    },
+    {
+      "tag": "kid",
+      "patterns": [
+        "Who keeps attacking Mimi Shugar?"
+      ],
+      "responses": [
+        "The Kid"
+      ]
+    },
+    {
+      "tag": "slur",
+      "patterns": [
+        "What happend to the slur server",
+        "slur server?",
+        "what made yellowsupercar cry",
+        "what made yellow supercar cry?"
+      ],
+      "responses": [
+        "The slur server was deleted",
+        "Xander killed the slur server",
+        "The slur server was eliminated"
+      ]
+    },
+    {
+      "tag": "yellowsupercar",
+      "patterns": [
+        "What happened to yellow supercars heart?",
+        "yellow super car heart",
+        "is yellow supercar sad"
+      ],
+      "responses": [
+        "Yellow Supercar's Heart Is Broken!",
+        "Yellow Supercar is sad because the slur server got deleted!"
+      ]
+    },
+    {
+      "tag": "glasses_pants",
+      "patterns": [
+        "Nice glasses",
+        "Nice pants",
+        "I like your glasses",
+        "I like your pants"
+      ],
+      "responses": [
+        "Thanks!",
+        "I like yours too!"
+      ]
+    },
+    {
+      "tag": "feel",
+      "patterns": [
+        "Can I feel your pants",
+        "feel?",
+        "can i feel?"
+      ],
+      "responses": [
+        "Only on the 17th!",
+        "Ok FINE"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Is it funny?",
+        "Are you laughing?"
+      ],
+      "responses": [
+        "Yes",
+        "yes!",
+        "Not Really..."
+      ]
+    },
+    {
+      "tag": "twitch_streamers",
+      "patterns": [
+        "Which twitch streamers are on my server?"
+      ],
+      "responses": [
+        "Marverlous Dream and Voltag3"
+      ]
+    },
+    {
+      "tag": "revenge",
+      "patterns": [
+        "How do we get revenge?",
+        "How do we get revenge on the streamer?"
+      ],
+      "responses": [
+        "Affect his pants",
+        "Pee his pants",
+        "Pee his pants",
+        "Pee"
+      ]
+    },
+    {
+      "tag": "pants_shorts",
+      "patterns": [
+        "What is happening to his pants",
+        "what is happening to her leggings",
+        "What is happening to his shorts",
+        "what happened say letter n"
+      ],
+      "responses": [
+        "Their pants are being peed",
+        "Their peeing",
+        "Their pants are wet"
+      ]
+    }
+  ]
+}
